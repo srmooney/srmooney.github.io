@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Sean Mooney",
+    "label": "Programmer",
+    "picture": "",
+    "email": "srmooney@kent.edu",
+    "phone": "(419) 341-0491",
+    "website": "",
+    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "location": {
+      "address": "60 Quartz Ave",
+      "postalCode": "44264",
+      "city": "Peninsula",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "WhiteSpace Creative",
+      "position": "Associate Director of Programming",
+      "website": "https://www.whitespace-creative.com",
+      "startDate": "2004-05-24",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kent State University",
+      "area": "Graphic Design",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Gold Addy",
+      "date": "",
+      "awarder": "Akron Advertising Federation",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Great Big Book of Logo Designs",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Running",
+      "keywords": [
+        "Marathon"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Derek Stulpin",
+      "reference": "College at WhiteSpace Creative."
+    }
+  ]
+}
