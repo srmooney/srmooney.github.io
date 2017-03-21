@@ -6,7 +6,7 @@
     "email": "srmooney@kent.edu",
     "phone": "(419) 341-0491",
     "website": "",
-    "summary": "" conversation!",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,11 +24,7 @@
       "startDate": "2004-05-24",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
+      "highlights": []
     }
   ],
   "volunteer": [],
@@ -67,7 +63,10 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+		"MS SQL",
+		"ASP.net",
+		"VB.Net"
       ]
     }
   ],
