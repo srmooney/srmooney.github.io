@@ -6,13 +6,13 @@
     "email": "srmooney@kent.edu",
     "phone": "(419) 341-0491",
     "website": "",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "" conversation!",
     "location": {
-      "address": "60 Quartz Ave",
-      "postalCode": "44264",
+      "address": "",
+      "postalCode": "",
       "city": "Peninsula",
-      "countryCode": "US",
-      "region": "Ohio"
+      "region": "Ohio",
+      "countryCode": "US"
     },
     "profiles": []
   },
@@ -37,9 +37,9 @@
       "institution": "Kent State University",
       "area": "Graphic Design",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
       "courses": []
     }
   ],
@@ -48,7 +48,7 @@
       "title": "Gold Addy",
       "date": "",
       "awarder": "Akron Advertising Federation",
-      "summary": "There is no spoon."
+      "summary": ""
     }
   ],
   "publications": [
